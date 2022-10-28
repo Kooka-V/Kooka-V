@@ -1,6 +1,7 @@
 # Hi comrades! / 同志，你好！
 
-Here's WayToX303.
+Here's Towarish Kooka. 
+这里是川和子秋。
 
 <!---
 WayToX303/WayToX303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
-# Hi comrades! / 同志，你好！
+# Hi comrades! / 同志，你好！ 👋
 
-Here's Towarish Kooka. 
+Here's Kooka. 
 <br>
-这里是川和子秋。
+这里是子秋。
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kooka-V&hide=issues&show_icons=true&line_height=24&hide_title=true&hide_border=true&theme=vue-dark)
 
